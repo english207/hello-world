@@ -1,2 +1,2 @@
 # hello-world
-from 
+from scrapy.item import Item, Field
